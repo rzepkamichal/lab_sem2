@@ -1,1 +1,1 @@
-# lab_sem2
+# Michal-Rzepka-gr12-repo

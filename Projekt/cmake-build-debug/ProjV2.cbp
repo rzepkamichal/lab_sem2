@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjV2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjV2">
+				<Option output="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/ProjV2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjV2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjV2/fast">
+				<Option output="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/ProjV2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjV2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/adjuvant_functions.c">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/adjuvant_functions.h">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/buffer_operations.c">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/buffer_operations.h">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/data_structures.h">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/file_operations.c">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/file_operations.h">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/list_operations.c">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/list_operations.h">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/main.c">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/menu_handler.c">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/menu_handler.h">
+			<Option target="ProjV2"/>
+		</Unit>
+		<Unit filename="C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/Projekt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

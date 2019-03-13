@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/lab3/analityk/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+mem.h
+-
+

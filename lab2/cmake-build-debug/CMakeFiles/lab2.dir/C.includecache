@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/lab2/funkcje.c
+
+C:/Users/sysoper/Desktop/dev/Michal-Rzepka-gr12-repo/lab2/main.c
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+
